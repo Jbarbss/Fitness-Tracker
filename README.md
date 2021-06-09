@@ -7,15 +7,13 @@
 
 2. [Acceptance Criteria](#Acceptance-Criteria)
 
-3. [Installation](#installation)
+3. [Usage](#usage)
 
-4. [Usage](#usage)
+4. [Links](#links)
 
-5. [Links](#links)
+5. [Contributions](#contributions)
 
-6. [Contributions](#contributions)
-
-7. [Questions](#questions)
+6. [Questions](#questions)
 
 
 ## Description
@@ -48,21 +46,11 @@ The user should be able to:
 
 
 
-## Installation
-
-Make sure to have node.js installed before running application.
-if not please go here https://nodejs.org/en/download/package-manager/
-
-Once Node.js is installed please enter the following:
-```
-npm init
-npm install
-
-
-```
 
 ## Usage
 
+![ScreenShot](./public/images/Mainpage.png "Main Page")
+![ScreenShot](./public/images/dashboard.png "Dashboard Page")
 
 
 ### Links
@@ -72,11 +60,11 @@ npm install
 [Heroku Site] https://powerful-cove-24965.herokuapp.com/
 
 
-![ScreenShot](./screenshot/Screenshot.jpg "Main Page")
+
  
 ## Contributions
 ---
-[![GitHub](https://img.shields.io/badge/Ben%20Durham-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/bdurham227)
+[![GitHub](https://img.shields.io/badge/Steven%20Paul-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/etown285) 
 
 [![GitHub](https://img.shields.io/badge/Gabe%20Thomas-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/samohtebag)
 
