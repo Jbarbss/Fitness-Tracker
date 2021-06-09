@@ -65,26 +65,11 @@ npm install
 
 
 
-Navigate to the seeds folder and run the following command in Terminal/Bash to seed database 
-
-```
-npm run seed
-
-```
-
-Run the following command in Terminal/Bash to start server.
-
-```
-npm start
-```
-
-
-
 ### Links
 
-[Deployed Github Repo] https://github.com/Jbarbss/Model-View-Controller--MVC--Tech-Blog
+[Deployed Github Repo] https://github.com/Jbarbss/Fitness-Tracker
 
-[Heroku Site] https://still-scrubland-37470.herokuapp.com/
+[Heroku Site] https://powerful-cove-24965.herokuapp.com/
 
 
 ![ScreenShot](./screenshot/Screenshot.jpg "Main Page")
